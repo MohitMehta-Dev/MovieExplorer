@@ -54,9 +54,3 @@ It fetches movies from [The Movie Database (TMDb) API](https://developer.themovi
 - Xcode **15.0+**
 - iOS **17.0+** (deployment target adjustable)
 - A valid **TMDb API Key** ([get one here](https://developer.themoviedb.org/))
-
-### Setup Instructions
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/Movie Explorer.git
-   cd Movie Explorer
